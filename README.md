@@ -3,7 +3,7 @@
   <h1>Velvet Ribbon Theme</h1>
   <p>A soft Chrome theme in coral pink, lavender and gentle blue.</p>
   <p>
-    <img src="https://img.shields.io/badge/version-1.0-FF95A5" alt="Version 1.0">
+    <img src="https://img.shields.io/badge/version-1.0.0-FF95A5" alt="Version 1.0.0">
     <img src="https://img.shields.io/badge/license-Non--Commercial-lightgrey" alt="Non-Commercial License">
     <img src="https://img.shields.io/badge/Chrome%20Web%20Store-theme-D4BAD4?logo=googlechrome" alt="Chrome Web Store">
   </p>
