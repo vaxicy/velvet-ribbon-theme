@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "version": "1.0",
-  "name": "velvet-ribbon-theme",
+  "name": "Velvet Ribbon Theme",
   "description": "A soft blend of coral pink, lavender, and blue with an elegant feel.",
   "icons": {
     "128": "logo/logo128.png"
