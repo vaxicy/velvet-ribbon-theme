@@ -1,0 +1,168 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "velvet-ribbon-theme",
+  "description": "A soft blend of coral pink, lavender, and blue with an elegant feel.",
+  "icons": {
+    "128": "logo/logo128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        255,
+        149,
+        165
+      ],
+      "frame_inactive": [
+        237,
+        212,
+        238
+      ],
+      "toolbar": [
+        246,
+        241,
+        246
+      ],
+      "background_tab": [
+        236,
+        204,
+        237
+      ],
+      "tab_text": [
+        57,
+        29,
+        58
+      ],
+      "tab_background_text": [
+        56,
+        79,
+        132
+      ],
+      "toolbar_button_icon": [
+        66,
+        91,
+        154
+      ],
+      "button_background": [
+        244,
+        209,
+        245
+      ],
+      "omnibox_background": [
+        254,
+        254,
+        254
+      ],
+      "omnibox_text": [
+        57,
+        29,
+        58
+      ],
+      "bookmark_text": [
+        66,
+        91,
+        154
+      ],
+      "ntp_background": [
+        250,
+        247,
+        250
+      ],
+      "ntp_text": [
+        50,
+        25,
+        51
+      ],
+      "ntp_link": [
+        66,
+        91,
+        154
+      ],
+      "frame_incognito": [
+        255,
+        118,
+        139
+      ],
+      "frame_incognito_inactive": [
+        231,
+        197,
+        232
+      ],
+      "background_tab_inactive": [
+        236,
+        204,
+        237
+      ],
+      "background_tab_incognito": [
+        228,
+        181,
+        229
+      ],
+      "background_tab_incognito_inactive": [
+        236,
+        204,
+        237
+      ],
+      "tab_background_text_inactive": [
+        56,
+        79,
+        132
+      ],
+      "tab_background_text_incognito": [
+        56,
+        79,
+        132
+      ],
+      "tab_background_text_incognito_inactive": [
+        56,
+        79,
+        132
+      ],
+      "ntp_header": [
+        50,
+        25,
+        51
+      ],
+      "toolbar_text": [
+        66,
+        91,
+        154
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.833,
+        0.217,
+        0.955
+      ],
+      "frame": [
+        0.975,
+        1,
+        0.792
+      ],
+      "frame_inactive": [
+        0.827,
+        0.433,
+        0.882
+      ],
+      "frame_incognito": [
+        0.974,
+        1,
+        0.731
+      ],
+      "frame_incognito_inactive": [
+        0.829,
+        0.432,
+        0.841
+      ],
+      "background_tab": [
+        0.828,
+        0.478,
+        0.865
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}
